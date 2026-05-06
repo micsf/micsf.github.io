@@ -19,9 +19,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Micah</h1>
+  <p><strong>Remote Sensing Advisor</strong></p>
+  <p><em>Turning spatial data into insights for document human rights abuses | GIS | Remote Sensing | Human Rights</em></p>
 </div>
 
 ---
