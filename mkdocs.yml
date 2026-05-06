@@ -61,9 +61,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/micsf
-    - #icon: fontawesome/brands/linkedin
+    #icon: fontawesome/brands/linkedin
       #link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
-    - #icon: material/email
+    #icon: material/email
       #link: mailto:[YOUR-EMAIL-ADDRESS]
 
 
