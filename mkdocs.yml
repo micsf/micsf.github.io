@@ -7,7 +7,7 @@ site_name: "Micah's Geospatial Portfolio"
 site_description: "Portfolio of Micah — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Micah"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
- site_url: "https://micsf.github.io"
+site_url: "https://micsf.github.io"
 
 theme:
   name: material
