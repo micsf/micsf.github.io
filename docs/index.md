@@ -31,9 +31,6 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
 I am a remote sensing specialist with a focus on the documentation of human rights abuses. 
 I work with earth observation data in collabopration with open source information and witness testimony to corroborate allegations of human rights abuses across the world. I am passionate about applying
@@ -86,14 +83,6 @@ earth observation data and GIS techniques to understanding the truth of events i
     - scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
 
@@ -103,11 +92,6 @@ earth observation data and GIS techniques to understanding the truth of events i
     - Cloud storage: AWS S3, Google Cloud Storage
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
 </div>
 
 
