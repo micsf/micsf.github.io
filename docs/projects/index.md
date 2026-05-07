@@ -18,7 +18,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/Lebanon_PercentDamage)
+![](../assets/images/Lebanon_PercentDamage.jpg)
 
 **[Southern Lebanon Damage](LebanonDamage_project.md)**
 
