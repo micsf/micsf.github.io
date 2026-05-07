@@ -96,12 +96,12 @@ hide:
 ## Education
 
 ### Master of Engineering, GIS
-**University of Colorado** | *Year of Graduation*
+**University of Colorado** | *2010*
 
 ---
 
 ### B.A. Environmental Science
-**University of Colorado** | *Year of Graduation*
+**University of Colorado** | *2004*
 
 ---
 
