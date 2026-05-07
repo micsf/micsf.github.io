@@ -18,9 +18,9 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![]https://github.com/micsf/micsf.github.io/blob/main/docs/assets/images/Lebanon_PercentDamage.jpg
 
-**[Sample Project](LebanonDamage_project.md)**
+**[Southern Lebanon Damage](LebanonDamage_project.md)**
 
 [A look at the damage in Lebanon between xx and xx]
 
